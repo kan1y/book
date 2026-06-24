@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scaffold.py)",
+      "Bash(bash _scaffold.sh)",
+      "Bash(git add *)"
+    ]
+  }
+}
