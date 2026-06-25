@@ -3,7 +3,12 @@
     "allow": [
       "Bash(python scaffold.py)",
       "Bash(bash _scaffold.sh)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git checkout *)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Read(//c/Users/saurukova/AppData/Local/Programs/Python/**)"
     ]
   }
 }
