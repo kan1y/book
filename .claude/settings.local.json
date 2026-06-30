@@ -13,7 +13,8 @@
       "Bash(git -C /Users/asaurukov/Desktop/book-main add CLAUDE.md)",
       "Bash(git -C /Users/asaurukov/Desktop/book-main status --short)",
       "WebFetch(domain:habr.com)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(gh auth *)"
     ]
   }
 }
