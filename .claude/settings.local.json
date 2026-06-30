@@ -11,7 +11,9 @@
       "Read(//c/Users/saurukova/AppData/Local/Programs/Python/**)",
       "Bash(git push *)",
       "Bash(git -C /Users/asaurukov/Desktop/book-main add CLAUDE.md)",
-      "Bash(git -C /Users/asaurukov/Desktop/book-main status --short)"
+      "Bash(git -C /Users/asaurukov/Desktop/book-main status --short)",
+      "WebFetch(domain:habr.com)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
