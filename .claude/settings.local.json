@@ -9,6 +9,7 @@
       "Bash(git checkout *)",
       "Bash(ls /c/Python*/python.exe)",
       "Read(//c/Users/saurukova/AppData/Local/Programs/Python/**)",
+      "Bash(git push *)",
       "Bash(git -C /Users/asaurukov/Desktop/book-main add CLAUDE.md)",
       "Bash(git -C /Users/asaurukov/Desktop/book-main status --short)"
     ]
